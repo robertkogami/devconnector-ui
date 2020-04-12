@@ -1,0 +1,23 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "UX/UI for DevConnector social media networking site",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertkogami/devconnector-ui.git"
+  },
+  "author": "Robert Kogami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertkogami/devconnector-ui/issues"
+  },
+  "homepage": "https://robertkogami.github.io/devconnector-ui"
+}
